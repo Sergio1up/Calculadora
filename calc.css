@@ -1,0 +1,74 @@
+h1{
+	color:rgb(100,80,150); 
+	margin-left: 27%;
+	margin-top:3%;
+	font-size:250%;
+	text-shadow: 5px 1px 3px;
+}
+
+h3{
+	position: absolute;
+	bottom: 0;
+	left: 1%; 
+	color:rgb(50,30,100); 
+	font-size:70%;
+}
+
+div{
+		background-color:rgba(200,180,250, .4); 
+		border:3px solid rgb(200,190,190); 
+		width:25%;
+		height:450px;		
+		margin-left:30%;
+		border-radius:5%;
+		padding-left: 1%;
+		padding-bottom: 1%;
+	}
+
+
+input{
+	 	width:88%;
+	 	height:12%;
+	 	border:2px solid #A7B;
+	 	border-radius:10px;
+	 	margin-top:2%;
+	 	background-color:rgba(200,180,250, .7); 
+	 	margin-left:3%; 
+	 	color:#83A; 
+	 	font-size:180%;
+	 	font-weight: bold;
+	 	text-align: right;
+	}
+
+button{
+		background-color:rgb(200,220,220);
+		width:21%;
+		height:13%;
+		border-radius:5px;
+		margin-left:2%;
+		margin-top:2%
+	}
+
+.c{
+	background-color:rgb(190,190,210); 
+	width:44%;
+	height:13%;
+	border-radius:5px;
+	margin-left: 26%
+}	
+
+.ce{
+	background-color:rgb(190,190,210);
+	width:20%;
+	height:13%;
+	border-radius:5px;
+	margin-left:2%;
+	margin-top:10%;
+	margin-bottom:5%;
+	}	
+
+button:hover {
+	cursor: pointer;
+	font-weight: bold;
+	color: #A33;
+}
